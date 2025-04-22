@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<html><head><title>Attendance</title></head><body>Attendance marking</body></html>

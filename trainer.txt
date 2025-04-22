@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<html><head><title>Trainer Dashboard</title></head><body>Trainer's workshops list</body></html>

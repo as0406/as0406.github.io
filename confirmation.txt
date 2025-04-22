@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<html><head><title>Confirmation</title></head><body>Registration success screen</body></html>
